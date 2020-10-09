@@ -1,5 +1,5 @@
 # adbt194
-<h3>WELCOME</h3>
+<h3>Welcome to my first coding project</h3>
 
 Right above this summary is a folder containing my presentation of a simple moving image of the London skyline.
 
