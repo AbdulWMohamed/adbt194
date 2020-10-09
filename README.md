@@ -1,5 +1,5 @@
 # adbt194
-<h1>WELCOME</h1>
+<h3>WELCOME</h3>
 
 Right above this summary is a folder containing my presentation of a simple moving image of the London skyline.
 
