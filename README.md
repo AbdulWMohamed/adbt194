@@ -9,3 +9,5 @@ With those topics it allowed me to create the moving image with a code containin
 If you look closely each droplet is different to one another with the use of 'map' helped create a realsitc imagery of rain, as the droplets further away will fall slowly and appear smaller while the droplets closer to the user/screen will fall faster and appear much larger in size.
 
 <h4>I hope you enjoy!<h/4>
+  
+![Rain1](https://user-images.githubusercontent.com/72019800/95529832-f64e2d00-09d3-11eb-909d-1f7efc6d5ba1.jpg)  
